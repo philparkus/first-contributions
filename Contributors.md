@@ -2,6 +2,7 @@
 
 
 - [Isna Ayu Muarofah](https://github.com/isnaayu)
+hitesh parikh
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Alec Smith](https://github.com/sharktankful)
 - [Marko Cuk](https://github.com/MarkoCuk54)
